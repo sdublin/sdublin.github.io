@@ -157,19 +157,14 @@ nav a:hover {
 .pricing_table {
     display: table;
     background: #2E9AFE;
-}
-
-.price_title {
-    display: table-caption;
-    text-align: center;
-    font-weight: bold;
-    font-size: larger;
+    width: 25%;
 }
 
 .price_heading {
     display: table-row;
     font-weight: bold;
     text-align: center;
+    font color: white;
 }
 
 .features {
