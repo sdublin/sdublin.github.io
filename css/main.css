@@ -156,6 +156,7 @@ nav a:hover {
 
 .pricing_table {
     display: table;
+    background: #2E9AFE;
 }
 
 .price_title {
