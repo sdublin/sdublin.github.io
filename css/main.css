@@ -158,13 +158,14 @@ nav a:hover {
     display: table;
     border-top: 20px solid #B0C4DE;
     background: #2E9AFE;
-    width: 45%;
+    width: 100%;
 }
 
 .price_heading {
     display: table-row;
     font-weight: bold;
     text-align: center;
+    background: #4682B4;
     color: white;
 }
 
