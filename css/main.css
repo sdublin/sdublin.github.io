@@ -156,6 +156,7 @@ nav a:hover {
 
 .pricing_table {
     display: table;
+    border-top: 20px solid #B0C4DE;
     background: #2E9AFE;
     width: 25%;
 }
