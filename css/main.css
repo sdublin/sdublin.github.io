@@ -158,26 +158,29 @@ nav a:hover {
     display: table;
     border-top: 20px solid #B0C4DE;
     background: #2E9AFE;
-    width: 25%;
+    width: 45%;
 }
 
 .price_heading {
     display: table-row;
     font-weight: bold;
     text-align: center;
-    font color: white;
+    color: white;
 }
 
 .features {
     display: table-row;
+    color: white;
 }
 
 .price_cell {
     display: table-cell;
         border: solid;
         border-width: thin;
+        border-color: white;
         padding-left: 15px;
         padding-right: 5px;
+        color: white;
 }
 
 
