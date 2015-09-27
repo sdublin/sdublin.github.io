@@ -232,7 +232,6 @@ IMG.displayed {
     WIDE: CSS3 Effects
    ==================== */
 
-    .header-container,
     .main aside {
         -webkit-box-shadow: 0 5px 10px #aaa;
            -moz-box-shadow: 0 5px 10px #aaa;
@@ -248,7 +247,7 @@ IMG.displayed {
     }
 
     nav {
-        float: right;
+        float: left;
         width: 38%;
     }
 
