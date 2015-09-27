@@ -198,7 +198,7 @@ IMG.displayed {
    ==================== */
 
     nav a {
-        float: center;
+        float: left;
         width: 27%;
         margin: 0 1.7%;
         padding: 25px 2%;
