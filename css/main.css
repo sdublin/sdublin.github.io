@@ -78,7 +78,10 @@ body {
     border-top: 20px solid #B0C4DE;
 }
 
-.header-container,
+.header-container {
+    background: white;
+}
+
 .footer-container,
 .main aside {
     background: #B0C4DE;
