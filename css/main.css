@@ -84,7 +84,7 @@ body {
 
 .footer-container,
 .main aside {
-    background: #B0C4DE;
+    background: #F0F8FF;
 }
 
 .title {
@@ -127,7 +127,7 @@ nav a {
 }
 
 .main aside {
-    color: white;
+    color: black;
     padding: 0px 5% 10px;
 }
 
