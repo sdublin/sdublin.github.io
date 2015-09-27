@@ -70,12 +70,12 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #B0C4DE;
+    /*border-bottom: 20px solid #B0C4DE;*/
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #B0C4DE;
+    border-top: 20px solid #0000CD;
 }
 
 .header-container {
