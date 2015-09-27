@@ -110,8 +110,8 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 
-    color: white;
-    background: #4682B4;
+    color: black;
+    background: white;
 }
 
 nav a:hover,
