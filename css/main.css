@@ -151,7 +151,7 @@ nav a {
 .pricing_table {
     display: table;
     border-top: 20px solid #B0C4DE;
-    background: #2E9AFE;
+    background: #4682B4;
     width: 100%;
 }
 
@@ -159,17 +159,18 @@ nav a {
     display: table-row;
     font-weight: bold;
     text-align: center;
-    background: #4682B4;
     color: white;
 }
 
 .features {
     display: table-row;
+    text-align: center;
     color: white;
 }
 
 .price_cell {
     display: table-cell;
+        text-align: center;
         border: solid;
         border-width: thin;
         border-color: white;
