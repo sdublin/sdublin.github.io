@@ -187,6 +187,12 @@ IMG.displayed {
     margin-right: auto;
 }
 
+.floatleft {
+    float:left;
+}
+.floatright {
+    float:right;
+}
 
 /* ==========================================================================
    Media Queries
