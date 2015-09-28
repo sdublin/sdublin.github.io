@@ -69,10 +69,6 @@ body {
     ALL: Orange Theme
    =================== */
 
-.header-container {
-    /*border-bottom: 20px solid #B0C4DE;*/
-}
-
 .footer-container,
 .main aside {
     border-top: 20px solid #6495ED;
@@ -80,6 +76,7 @@ body {
 
 .header-container {
     background: white;
+    width: 100%;
 }
 
 .footer-container,
