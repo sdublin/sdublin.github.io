@@ -186,9 +186,11 @@ IMG.displayed {
 
 .floatleft {
     float:left;
+    background: #F0F8FF;
 }
 .floatright {
     float:right;
+    background: #F0F8FF;
 }
 
 /* ==========================================================================
