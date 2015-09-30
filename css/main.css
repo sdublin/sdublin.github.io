@@ -188,6 +188,8 @@ IMG.displayed {
 }
 .floatright {
     float:right;
+    color: black;
+    padding: 20px 0;
 }
 
 /* ==========================================================================
