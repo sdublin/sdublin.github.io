@@ -139,27 +139,28 @@
                             <label>Full Name:</label>
                             <input type="text" name="name" size=35>
                             <p class="help-block"></p>
+                        </div>
                     </div>
-            </div>
-            <div class="control-group form-group">
-                    <div class="controls">
-                        <label>Email Address:</label>
-                        <input type="email" name="_replyto" placeholder="Your email">
-                     </div>
-            </div>
-            <div class="control-group form-group">
-                    <div class="controls">
-                        <label>Message:</label>
-                        <textarea name="message" placeholder="Your message" rows="10" cols="100"></textarea>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Email Address:</label>
+                            <input type="email" name="_replyto" placeholder="Your email">
+                        </div>
                     </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Message:</label>
+                            <textarea name="message" placeholder="Your message" rows="10" cols="100"></textarea>
+                        </div>
+                    </div>
+                    <input type="submit" value="Send">
+                </form>
+                <script>
+                    var contactform =  document.getElementById('contactform');
+                    contactform.setAttribute('action', '//formspree.io/' + 'herolddublin' + '@' + 'gmail' + '.' + 'com');
+                </script>
             </div>
-            <input type="submit" value="Send">
-        </form>
-        <script>
-            var contactform =  document.getElementById('contactform');
-            contactform.setAttribute('action', '//formspree.io/' + 'herolddublin' + '@' + 'gmail' + '.' + 'com');
-        </script>
-
+        </div>
         <hr>
 
         <!-- Footer -->
