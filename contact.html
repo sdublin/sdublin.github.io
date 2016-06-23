@@ -131,7 +131,9 @@
 <!-- Contact Form -->
         <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
        <form id="contactform" method="POST">
-            <input type="text" name="name" placeholder="Your name">
+            <label>Full Name:</label>
+            <input type="text" name="name" size=35>
+            <p class="help-block"></p>
             <input type="email" name="_replyto" placeholder="Your email">
             <input type="hidden" name="_subject" value="Website contact" />
             <textarea name="message" placeholder="Your message"></textarea>
